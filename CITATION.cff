@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use SUCCES, please cite it using the metadata below."
+title: "SUCCES: Stochastic Unit Commitment for Coupled European Scenarios"
+type: software
+authors:
+  - family-names: "[Schoenfisch]"
+    given-names: "[Theodor]"
+repository-code: "https://github.com/[bellpesce]/succes"
+abstract: >-
+  A stochastic unit commitment and economic dispatch simulator for 15
+  European power market regions. Dispatch is optimised by a real-valued
+  island genetic algorithm with block crossover, evaluated against
+  CVaR-weighted scenario banks with stochastic demand, renewable output,
+  hydro inflow and forced outages. Regions are coupled via PTDF-based ATC
+  flows. Pricing is pure merit order: the last dispatched unit sets the
+  market clearing price. No MILP/LP solver is used anywhere.
+keywords:
+  - unit commitment
+  - economic dispatch
+  - genetic algorithm
+  - power markets
+  - stochastic optimization
+  - electricity prices
+  - Julia
+  - Python
+license: Apache-2.0
+version: "1.0.0"
+date-released: "2026-06-10"

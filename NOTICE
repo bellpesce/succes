@@ -1,0 +1,13 @@
+SUCCES — Stochastic Unit Commitment for Coupled European Scenarios
+Copyright 2026 [Theodor Schoenfisch]
+https://github.com/[Theodor Schoenfisch]/succes
+
+This product includes software developed by [Theodor Schoenfisch].
+
+If you use SUCCES in research, analysis, or derived work, a citation or
+reference back to the repository above is appreciated. See CITATION.cff.
+
+ERA5 weather data used by the example scenarios is provided by the
+Copernicus Climate Change Service (C3S) Climate Data Store and is subject
+to the Copernicus licence terms. ERA5 data itself is not distributed under
+the Apache License.
