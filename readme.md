@@ -1,6 +1,6 @@
 # SUCCES
 
-**Stochastic Unit Commitment for Coupled European Scenarios** — a power market
+**Stochastic Unit Commitment for Core Energy Simulation** — a power market
 simulator for 15 European bidding zones that uses **no MILP, no LP, no
 commercial solver**. Dispatch is found by a genetic algorithm; prices come from
 pure merit order: the last dispatched unit sets the market clearing price.
